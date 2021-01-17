@@ -1,7 +1,3 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
-index:
-  path: /
-  # the controller value has the format 'controller_class::method_name'
-  controller: App\Controller\HomeController::index
